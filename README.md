@@ -1,6 +1,14 @@
 <div align="center">
   <img src="./public/Screenshot 2024-07-14 181915.png" alt="Logo" width="100%" height="100%">
 
+  <br>
+  <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
+    <img src="./public/assets/favicon.png" alt="Logo" width="100" height="32">
+  </a>
+</div>
+
+<br />
+
 <div align="center">
   <img src="./public/assets/detail-modal.png" alt="Logo" width="100%" height="100%">
   <p align="center">Home Page</p>
